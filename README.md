@@ -3,7 +3,7 @@
  implementation of accurate and computationally inexpensive models for natural
  processes occurring in the littoral area. Urban-scale flood models are increas
 ingly being studied in the context of risk prevention, to this end, for several years,
- the LEMONteamhasbeendeveloping so-called porosity models for the shallow wa
+ the LEMON team has been developing so-called porosity models for the shallow wa
 ter equations to provide rapid, large-scale simulations of these phenomena. Porous
  shallow water equations extend the classical shallow water model by introducing
  porosity to represent subgrid-scale effects caused by obstacles such as buildings
